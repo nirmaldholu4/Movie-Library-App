@@ -1,0 +1,141 @@
+{
+    "movies": [
+        {
+            "id": 1,
+            "title": "The Great Wall",
+            "year": 2016,
+            "poster": "https://image.tmdb.org/t/p/w500/p1F51Lvj3sMopG948F5HsBbl43C.jpg",
+            "rating": 6.0,
+            "language": "English",
+            "genre": "Action, Adventure",
+            "description": "A great adventure filled with action and mystery."
+        },
+        {
+            "id": 2,
+            "title": "Interstellar",
+            "year": 2014,
+            "poster": "https://image.tmdb.org/t/p/w500/gEU2QniE6E77NI6lCU6MxlNBvIx.jpg",
+            "rating": 8.7,
+            "language": "English",
+            "genre": "Sci-Fi, Drama",
+            "description": "A team of explorers travels beyond this galaxy to discover a future for humanity."
+        },
+        {
+            "id": 3,
+            "title": "Inception",
+            "year": 2010,
+            "poster": "https://image.tmdb.org/t/p/w500/oYuLEt3zVCKq57qu2F8dT7NIa6f.jpg",
+            "rating": 8.8,
+            "language": "English",
+            "genre": "Action, Sci-Fi",
+            "description": "A skilled thief enters dreams to steal valuable secrets."
+        },
+        {
+            "id": 4,
+            "title": "The Dark Knight",
+            "year": 2008,
+            "poster": "https://image.tmdb.org/t/p/w500/qJ2tW6WMUDux911r6m7haRef0WH.jpg",
+            "rating": 9.0,
+            "language": "English",
+            "genre": "Action, Crime",
+            "description": "Batman faces a dangerous criminal who challenges Gotham City."
+        },
+        {
+            "id": 5,
+            "title": "Avatar",
+            "year": 2009,
+            "poster": "https://image.tmdb.org/t/p/w500/kyeqWdyUXW608qlYkRqosgbbJyK.jpg",
+            "rating": 7.9,
+            "language": "English",
+            "genre": "Fantasy, Adventure",
+            "description": "A journey to Pandora changes a soldier's life forever."
+        },
+        {
+            "id": 6,
+            "title": "Titanic",
+            "year": 1997,
+            "poster": "https://image.tmdb.org/t/p/w500/9xjZS2rlVxm8SFx8kPC3aIGCOYQ.jpg",
+            "rating": 7.9,
+            "language": "English",
+            "genre": "Romance, Drama",
+            "description": "Two young people meet aboard a famous ocean liner."
+        },
+        {
+            "id": 7,
+            "title": "Avengers Endgame",
+            "year": 2019,
+            "poster": "https://image.tmdb.org/t/p/w500/or06FN3Dka5tukK1e9sl16pB3iy.jpg",
+            "rating": 8.2,
+            "language": "English",
+            "genre": "Action, Adventure",
+            "description": "The Avengers unite for one final battle to restore balance."
+        },
+        {
+            "id": 8,
+            "title": "Joker",
+            "year": 2019,
+            "poster": "https://image.tmdb.org/t/p/w500/udDclJoHjfjb8Ekgsd4FDteOkCU.jpg",
+            "rating": 8.2,
+            "language": "English",
+            "genre": "Crime, Drama",
+            "description": "A troubled comedian's life changes in Gotham City."
+        },
+        {
+            "id": 9,
+            "title": "Spider-Man No Way Home",
+            "year": 2021,
+            "poster": "https://image.tmdb.org/t/p/w500/1g0dhYtq4irTY1GPXvft6k4YLjm.jpg",
+            "rating": 8.0,
+            "language": "English",
+            "genre": "Action, Adventure",
+            "description": "Spider-Man faces unexpected challenges across different worlds."
+        },
+        {
+            "id": 10,
+            "title": "Doctor Strange",
+            "year": 2016,
+            "poster": "https://image.tmdb.org/t/p/w500/uGBVj3bEbCoZbDjjl9wTxcygko1.jpg",
+            "rating": 7.5,
+            "language": "English",
+            "genre": "Fantasy, Action",
+            "description": "A surgeon discovers the mystical arts and a new reality."
+        },
+        {
+            "id": 11,
+            "title": "Iron Man",
+            "year": 2008,
+            "poster": "https://image.tmdb.org/t/p/w500/78lPtwv72eTNqFW9COBYI0dWDJa.jpg",
+            "rating": 7.9,
+            "language": "English",
+            "genre": "Action, Sci-Fi",
+            "description": "A genius inventor builds a powerful suit and becomes Iron Man."
+        },
+        {
+            "id": 19,
+            "title": "The Batman",
+            "year": 2022,
+            "poster": "https://image.tmdb.org/t/p/w500/74xTEgt7R36Fpooo50r9T25onhq.jpg",
+            "rating": 7.8,
+            "language": "English",
+            "genre": "Crime, Action",
+            "description": "Batman investigates corruption and crime in Gotham City."
+        }
+    ],
+    "users": [
+        {
+            "id": "nirmal",
+            "password": "12345",
+            "name": "Nirmal"
+        },
+        {
+            "id": "admin",
+            "password": "admin123",
+            "name": "Admin"
+        },
+        {
+            "id": "movieuser",
+            "password": "movie123",
+            "name": "Movie User"
+        }
+    ]
+}
