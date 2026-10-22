@@ -1,5 +1,3 @@
-<div align="center">
-
 # 🎬 MovieHub – Movie Library App
 
 **A responsive movie library web app where users can log in, explore movies, search by title, view details and build their own favorites list.**
@@ -10,8 +8,6 @@
 ![React Router](https://img.shields.io/badge/React%20Router-Routing-CA4245?logo=reactrouter&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-5-7952B3?logo=bootstrap&logoColor=white)
 ![JSON Server](https://img.shields.io/badge/JSON%20Server-Mock%20API-000000?logo=json&logoColor=white)
-
-</div>
 
 ---
 
@@ -85,22 +81,22 @@ The app fetches movie data from a local **JSON Server** (`db.json`). After loggi
 ## 📸 Screenshots
 
 ### 🔑 Login Page
-<img src="src/assets/Screenshot/login.png" alt="Login Page" width="800" />
+![Login Page](./Movie-Library/src/assets/Screenshot/login.png)
 
 ### 🏠 Home Page
-<img src="src/assets/Screenshot/home.png" alt="Home Page" width="800" />
+![Home Page](./Movie-Library/src/assets/Screenshot/home.png)
 
 ### 🔍 Search Results
-<img src="src/assets/Screenshot/search.png" alt="Search Results" width="800" />
+![Search Results](./Movie-Library/src/assets/Screenshot/search.png)
 
 ### 🎥 Movie Details Page
-<img src="src/assets/Screenshot/movie-details.png" alt="Movie Details Page" width="800" />
+![Movie Details Page](./Movie-Library/src/assets/Screenshot/movie-details.png)
 
 ### ❤️ Favorites Page
-<img src="src/assets/Screenshot/favorites.png" alt="Favorites Page" width="800" />
+![Favorites Page](./Movie-Library/src/assets/Screenshot/favorites.png)
 
 ### 📱 Mobile View
-<img src="src/assets/Screenshot/mobile.png" alt="Mobile View" width="300" />
+![Mobile View](./Movie-Library/src/assets/Screenshot/mobile.png)
 
 ---
 
@@ -192,8 +188,8 @@ Movie-Library/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/nirmaldholu4/Movie-Library.git
-cd Movie-Library
+git clone https://github.com/nirmaldholu4/Movie-Library-App.git
+cd Movie-Library-App/Movie-Library
 ```
 
 ### 2. Install dependencies
