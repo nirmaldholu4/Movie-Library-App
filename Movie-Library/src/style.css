@@ -423,14 +423,11 @@ body {
     padding: 25px 20px;
   }
 }
-
-/* Search Bar Spacing */
 .movie-search {
   margin-top: 25px;
   margin-bottom: 35px;
 }
 
-/* Space between Search Bar and Movie Cards */
 .page-content {
   padding-top: 20px;
 }
